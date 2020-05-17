@@ -24,6 +24,7 @@ public class textvalidation extends base {
 		Assert.assertTrue(qa.hometext().getText().equalsIgnoreCase("FEATURED COURSES"));
 		log.info("Validated title");
 		System.out.println("one");
+		System.out.println("two");
 				
 		}
 	@AfterTest

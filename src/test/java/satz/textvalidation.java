@@ -26,7 +26,6 @@ public class textvalidation extends base {
 		System.out.println("one");
 		System.out.println("two");
 
-
 				
 		}
 	@AfterTest

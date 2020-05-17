@@ -23,7 +23,7 @@ public class textvalidation extends base {
 		qaclickhome qa=new qaclickhome(driver);
 		Assert.assertTrue(qa.hometext().getText().equalsIgnoreCase("FEATURED COURSES"));
 		log.info("Validated title");
-		
+		System.out.println("one");
 				
 		}
 	@AfterTest

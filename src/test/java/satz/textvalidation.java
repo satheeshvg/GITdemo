@@ -25,8 +25,8 @@ public class textvalidation extends base {
 		log.info("Validated title");
 		System.out.println("one");
 		System.out.println("two");
-		System.out.println("two");
-
+		
+	
 				
 		}
 	@AfterTest
@@ -34,7 +34,6 @@ public class textvalidation extends base {
 	{
 		driver.close();
 		driver=null;
-		System.out.println("two");
 	}
 	
 	@BeforeTest
@@ -44,7 +43,20 @@ public class textvalidation extends base {
 		driver.get(prop.getProperty("url"));
 	}
 	
-	
+	@Test
+	public void fuck()
+	{
+		System.out.println("three");
+		System.out.println("four");
+		System.out.println("five");
+		System.out.println("six");
+		System.out.println("seven");
+		System.out.println("eight");
+		System.out.println("nine");
+		System.out.println("ten");
+		System.out.println("tennnnnn");
+		System.out.println("hi");
+	}
 	
 	
 

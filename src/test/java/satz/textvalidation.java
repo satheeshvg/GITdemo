@@ -58,9 +58,17 @@ public class textvalidation extends base {
 		System.out.println("three");
 		System.out.println("four");
 		System.out.println("five");
+		System.out.println("hi");
 	}
 	@Test
 	public void much()
+	{
+		System.out.println("three");
+		System.out.println("four");
+		System.out.println("five");
+	}
+	@Test
+	public void kuch()
 	{
 		System.out.println("three");
 		System.out.println("four");

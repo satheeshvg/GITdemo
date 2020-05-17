@@ -34,6 +34,7 @@ public class textvalidation extends base {
 	{
 		driver.close();
 		driver=null;
+		System.out.println("two");
 	}
 	
 	@BeforeTest

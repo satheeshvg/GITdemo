@@ -31,6 +31,7 @@ public class textvalidation extends base {
 		System.out.println("six");
 		System.out.println("seven");
 		System.out.println("eight");
+		System.out.println("nine");
 				
 		}
 	@AfterTest

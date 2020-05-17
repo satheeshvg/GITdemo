@@ -50,14 +50,15 @@ public class textvalidation extends base {
 		System.out.println("four");
 		System.out.println("five");
 		System.out.println("six");
-		System.out.println("seven");
-		System.out.println("eight");
-		System.out.println("nine");
-		System.out.println("ten");
-		System.out.println("tennnnnn");
-		System.out.println("hi");
-	}
 	
+	}
+	@Test
+	public void duck()
+	{
+		System.out.println("three");
+		System.out.println("four");
+		System.out.println("five");
+	}
 	
 
 }

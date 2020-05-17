@@ -25,7 +25,7 @@ public class textvalidation extends base {
 		log.info("Validated title");
 		System.out.println("one");
 		System.out.println("two");
-		
+
 				
 		}
 	@AfterTest
